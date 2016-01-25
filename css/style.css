@@ -22,3 +22,38 @@ p {
 hr {
 	color: #ff0101;
 }
+
+li {
+	font-color: #fff;
+}
+
+.test {
+	display: inline-block;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.img1 {
+	display: inline-block;
+    border: 3px solid red;
+}
+
+.img2 {
+	display: inline-block;
+	padding: 1px;
+    border: 3px solid blue;
+}
+
+.img3 {
+	display: inline-block;
+	padding: 1px;
+    border: 3px solid #021a40;
+}
+
+.img4 {
+	display: inline-block;
+	padding: 1px;
+    border: 3px solid green;
+}
